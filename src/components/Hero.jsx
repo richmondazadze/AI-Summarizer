@@ -25,6 +25,18 @@ const Hero = () => {
         <span className="blue_gradient">OpenAI GPT-4</span>
       </h1>
       <h2 className="desc">
+        Built by &copy; (2024){" "}
+        <a
+          href="https://www.linkedin.com/in/richmond-azadze/"
+          className="text-indigo-600 visited:text-gray-600 ..."
+          target="blank"
+        >
+          <span className="text-blue-600 underline-offset-2">
+            Richmond Azadze
+          </span>
+        </a>
+      </h2>
+      <h2 className="desc">
         Effortlessly summarize lengthy texts with our AI tool. Save time while
         gaining quick insights. Stay focused on what matters most with our
         efficient summarizer, revolutionizing the way you consume information.
