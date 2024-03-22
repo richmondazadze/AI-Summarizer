@@ -12,7 +12,7 @@ const Hero = () => {
         <button
           type="button"
           onClick={() =>
-            window.open("https://github.com/richmondazadze/AI-Summarizer")
+            window.open("https://github.com/richmondazadze/AI-Summarizer/")
           }
           className="blue_btn font-bold"
         >
